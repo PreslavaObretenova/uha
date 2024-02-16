@@ -278,7 +278,7 @@ html {
     font-family: Arial, sans-serif;
     font-size: 14px;
     line-height: 20px;
-    color: #252424
+    color: #c7c6c6
   }
   
   img {
@@ -594,7 +594,7 @@ html {
     margin-bottom: 10px;
     font-size: 14px;
     line-height: 1.42857143;
-    color: #333333;
+    color: #ffffff;
     vertical-align: middle;
     background-color: #ffffff;
     border: 1px solid #cccccc
@@ -602,23 +602,23 @@ html {
   
   .w-input:-moz-placeholder,
   .w-select:-moz-placeholder {
-    color: #999
+    color: #ffffff
   }
   
   .w-input::-moz-placeholder,
   .w-select::-moz-placeholder {
-    color: #999;
+    color: #fdfdfd;
     opacity: 1
   }
   
   .w-input:-ms-input-placeholder,
   .w-select:-ms-input-placeholder {
-    color: #999
+    color: #ffffff
   }
   
   .w-input::-webkit-input-placeholder,
   .w-select::-webkit-input-placeholder {
-    color: #999
+    color: #ffffff
   }
   
   .w-input:focus,
@@ -2051,7 +2051,7 @@ html {
     position: relative;
     float: left;
     text-decoration: none;
-    color: #333333
+    color: #ffffff
   }
   
   .w-nav-link {
@@ -2059,7 +2059,7 @@ html {
     display: inline-block;
     vertical-align: top;
     text-decoration: none;
-    color: #222222;
+    color: #f9f9f9;
     padding: 20px;
     text-align: left;
     margin-left: auto;
